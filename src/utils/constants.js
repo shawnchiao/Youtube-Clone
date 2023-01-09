@@ -34,3 +34,11 @@ export const categories = [
   { name: 'Gym', icon: <FitnessCenterIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
+
+
+export const demoThumbnailUrl = 'https://embed-ssl.wistia.com/deliveries/b05deae60fea4e08839a28e1333a858f.webp?image_crop_resized=1280x720';
+export const demoChannelUrl = '/@laogao';
+export const demoVideoUrl = '/video/jMfOYTfIv90';
+export const demoChannelTitle = 'Mr & Mrs Gao';
+export const demoVideoTitle = '2023';
+export const demoProfilePicture = 'https://yt3.googleusercontent.com/U6n1tM-bMbzyjnW3kIrs3Xdhcyxwri__7Ftm_lYuYBvPB1BRU-Z93Zvefc8TPzMUgJly4BKk=s176-c-k-c0x00ffffff-no-rj'
