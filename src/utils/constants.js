@@ -36,9 +36,9 @@ export const categories = [
 ];
 
 
-export const demoThumbnailUrl = 'https://embed-ssl.wistia.com/deliveries/b05deae60fea4e08839a28e1333a858f.webp?image_crop_resized=1280x720';
+export const demoThumbnailUrl = 'https://miro.medium.com/max/880/0*H3jZONKqRuAAeHnG.jpg';
 export const demoChannelUrl = '/@laogao';
 export const demoVideoUrl = '/video/jMfOYTfIv90';
 export const demoChannelTitle = 'Mr & Mrs Gao';
 export const demoVideoTitle = '2023';
-export const demoProfilePicture = 'https://yt3.googleusercontent.com/U6n1tM-bMbzyjnW3kIrs3Xdhcyxwri__7Ftm_lYuYBvPB1BRU-Z93Zvefc8TPzMUgJly4BKk=s176-c-k-c0x00ffffff-no-rj'
+export const demoProfilePicture = 'https://media.istockphoto.com/id/1302436578/video/loading-circle-icon-animation-on-black-background-4k-video-loopable-preloader.jpg?s=640x640&k=20&c=WiK1w7O6VvTD7Xu7Ov8DdzGY2lX2bSlJDxw4r4DHzfI='
